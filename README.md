@@ -26,4 +26,4 @@ Exit: Close Timecord
 
 ### Settings
 
-Coming Soon
+Instructions Coming Soon
