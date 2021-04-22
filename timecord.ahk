@@ -158,7 +158,7 @@ Gui, Add, Checkbox, x20 y150 vstartup checked%startup%, Run on Windows Startup
 Gui, Add, Button, w75 gsavesettings, Save
 
 Gui, Tab, 4
-Gui, Add, Text,,Timecord v1.1.0 - Copyright 2021 Timothy Huang
+Gui, Add, Text,,Timecord v1.0.0 - Copyright 2021 Timothy Huang
 Gui, Add, Edit,readonly r14 w280, %helpinfo%
 Gui, Add, Button, x20 y250 ggithub,View GitHub Repository (Contains Instructions)
 
