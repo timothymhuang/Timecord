@@ -10,9 +10,9 @@ Timecord DOES NOT directly interact with Discord. It only detects your keystroke
 
 Note: Timecord is a portable application.
 
-**NOTE:** It's getting detected as a virus on many different things, so I removed the exe. Please use the source code instead.
+**NOTE:** The EXE is getting detected as a virus on many different things, so I removed it for now until I can figure out what's up.
 
-Download the latest release [here](https://github.com/timothymhuang/Timecord/releases).
+Download the source code [here](https://github.com/timothymhuang/Timecord/blob/main/timecord.ahk). You will also need to download [AutoHotkey](https://www.autohotkey.com/).
 
 Move it to the folder you would like, the run it. The necessary files should automatically be created. If you ever need to move the application, make sure you also copy all the files it created or else your settings won't be saved.
 
